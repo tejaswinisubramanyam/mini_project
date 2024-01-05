@@ -1,0 +1,218 @@
+						  PATIENT DETAILS
+
+NAME	Teja
+AGE	22
+GENDER	Female
+CONTACTNO	9879587979
+PROBLEM	Eye
+===========================================================================
+
+NAME	Indhu
+AGE	22
+GENDER	female
+CONTACTNO	64883749958
+PROBLEM	Gastric
+===========================================================================
+
+NAME	likitha
+AGE	26
+GENDER	female
+CONTACTNO	98757078087
+PROBLEM	stomach
+===========================================================================
+
+NAME	suresh
+AGE	55
+GENDER	male
+CONTACTNO	8790797
+PROBLEM	heart
+===========================================================================
+
+NAME	ganesh
+AGE	45
+GENDER	male
+CONTACTNO	6797696879
+PROBLEM	heart
+===========================================================================
+
+NAME	ishu
+AGE	24
+GENDER	female
+CONTACTNO	8676498698
+PROBLEM	fever
+===========================================================================
+
+NAME	ishu
+AGE	24
+GENDER	female
+CONTACTNO	67846969888
+PROBLEM	fever
+===========================================================================
+
+NAME	vanith
+AGE	26
+GENDER	male
+CONTACTNO	58686987987
+PROBLEM	fever
+===========================================================================
+
+NAME	vaishu
+AGE	25
+GENDER	female
+CONTACTNO	876486967
+PROBLEM	stomach
+===========================================================================
+
+NAME	vaishu
+AGE	15
+GENDER	female
+CONTACTNO	879487987498
+PROBLEM	fever
+===========================================================================
+
+NAME	Rethu
+AGE	16
+GENDER	female
+CONTACTNO	987487987
+PROBLEM	Fever
+===========================================================================
+
+NAME	vishnu
+AGE	26
+GENDER	male
+CONTACTNO	979547987
+PROBLEM	Heart
+===========================================================================
+
+NAME	varshini
+AGE	25
+GENDER	female
+CONTACTNO	867986797
+PROBLEM	Fever
+===========================================================================
+
+NAME	Sandy
+AGE	26
+GENDER	Female
+CONTACTNO	8974997987
+PROBLEM	Eye
+===========================================================================
+
+NAME	Marie
+AGE	45
+GENDER	female
+CONTACTNO	897984797
+PROBLEM	Fever
+===========================================================================
+
+NAME	lara
+AGE	25
+GENDER	female
+CONTACTNO	876979809
+PROBLEM	Fever
+===========================================================================
+
+NAME	Lucky
+AGE	4
+GENDER	male
+CONTACTNO	749798977
+PROBLEM	stomach pain
+===========================================================================
+
+NAME	lucky
+AGE	3
+GENDER	male
+CONTACTNO	87648688479
+PROBLEM	stomach pain
+===========================================================================
+
+NAME	zara
+AGE	24
+GENDER	female
+CONTACTNO	6796987897
+PROBLEM	Eye
+===========================================================================
+
+NAME	uma
+AGE	47
+GENDER	female
+CONTACTNO	9873978979
+PROBLEM	Eye
+===========================================================================
+
+NAME	Tejaswini
+AGE	22
+GENDER	female
+CONTACTNO	96796987
+PROBLEM	fever
+===========================================================================
+
+NAME	Tejaswini
+AGE	22
+GENDER	female
+CONTACTNO	7987979798
+PROBLEM	Fever
+===========================================================================
+
+NAME	Lucky
+AGE	2
+GENDER	male
+CONTACTNO	8762848979
+PROBLEM	mucus
+===========================================================================
+
+NAME	sgvs
+AGE	50
+GENDER	male
+CONTACTNO	9866804708
+PROBLEM	Heart
+===========================================================================
+
+NAME	Guru
+AGE	50
+GENDER	male
+CONTACTNO	9533314441
+PROBLEM	Heart
+===========================================================================
+
+NAME	sree
+AGE	46
+GENDER	female
+CONTACTNO	98749797098
+PROBLEM	Heart
+===========================================================================
+
+NAME	vani
+AGE	56
+GENDER	female
+CONTACTNO	797979898
+PROBLEM	Heart
+===========================================================================
+
+NAME	ggjdg
+AGE	45
+GENDER	female
+CONTACTNO	7978999
+PROBLEM	Heart
+===========================================================================
+
+NAME	zara
+AGE	5
+GENDER	female
+CONTACTNO	8797978989
+PROBLEM	stomach pain
+===========================================================================
+
+NAME	zara
+AGE	5
+GENDER	female
+CONTACTNO	8798798989
+PROBLEM	stomach pain
+===========================================================================
+
+NAME	teja
+AGE	22
+GENDER	female
+CONTACTNO	8768777888
+PROBLEM	Eye
+===========================================================================
